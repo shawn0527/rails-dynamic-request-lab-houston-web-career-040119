@@ -3,7 +3,7 @@ class StudentsController < ApplicationController
     @students = Student.all
   end
 
-  def show
+  def sho
     @student = Student.find(params[:id])
   end
 end
