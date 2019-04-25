@@ -275,3 +275,8 @@ Processing by StudentsController#show as HTML
 Completed 200 OK in 13ms (Views: 10.2ms | ActiveRecord: 0.2ms)
 
 
+Started GET "/students/1" for 63.98.217.210 at 2019-04-25 21:22:40 +0000
+Processing by StudentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering students/show.html.erb within layouts/application
+  Rendered students/show.html.erb within layouts/application (0.3ms)
