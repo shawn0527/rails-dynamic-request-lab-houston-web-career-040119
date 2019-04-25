@@ -348,3 +348,6 @@ Processing by StudentsController#sho as HTML
   Parameters: {"id"=>"1"}
   Rendering students/sho.html.erb within layouts/application
   Rendered students/sho.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms)
+
+
